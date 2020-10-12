@@ -11,8 +11,9 @@ Online food ordering and delivery customer application.
 1. [Ionic Framework](https://ionicframework.com/)
 2. [Apache Cordova](https://cordova.apache.org/)
 3. [Capacitor](https://capacitorjs.com/)
-3. [Angular](https://angular.io/) v10.1.3 / 23 September 2020;
-4. [Google FireBase](https://firebase.google.com/)
+4. [Angular](https://angular.io/) v10.1.3 / 23 September 2020;
+5. [Google FireBase](https://firebase.google.com/)
+6. [Jest.io](https://firebase.google.com/)
 
 ---
 
