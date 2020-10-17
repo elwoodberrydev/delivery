@@ -4,8 +4,11 @@
 # Work Log
 In this file I will document all tasks (completed/uncompleted).
 
-### 2020.10.01
+### 2020.10.15
+**Incorporate Unit Testing**
 
+---
+### 2020.10.01
 
 **Added icons and splash screen**
 
