@@ -39,23 +39,31 @@ Error: Charlie
 Error: Delta
 > Failed to create provisioning profile. The app ID "io.ionic.starter" cannot be registered....
 > No profiles for 'io.ionic.starter' were found
+
+**Solution: Delta**
 ```
 Bundle Identifier: zyriel.alpha
 ```
 
 Error: Echo
 > error: SWIFT_VERSION '5.0' is unsupported, supported versions are: 3.0, 4.0, 4.2. (in target 'App')
+
+**Solution: Echo**
 ```
 Change the version of Swift for the "Pods" and the "App"
 ```
 
 Error: Foxtrot
 > Type 'UIStatusBarStyle' has no member 'darkContent'
+
+**Solution: Foxtrot**
 ```
 Currently updating from macOS High Sierra(10.13.6) to macOS Catalina(10.15.7)
 This will allow for the update of xCode to version 12
 ```
 
 **References**
-1. [Generate using Capacitor](https://medium.com/@dalezak/generate-app-icon-and-splash-screen-images-for-ionic-framework-using-capacitor-e1f8c6ef0fd4)
+1. [Capacitor](https://capacitorjs.com/)
+1. [Splash Screen](https://capacitorjs.com/docs/apis/splash-screen#splash-screen)
+3. [Unit Testing Your Ionic Framework App](https://youtu.be/RgD_tRXnxRo)
 ---
